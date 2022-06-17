@@ -1,0 +1,84 @@
+.single{
+    display: flex;
+    width: 100%;
+}
+
+.singleContainer{
+    flex: 6;
+}
+
+.s-Top{
+    padding: 20px;
+    display: flex;
+    gap: 20px;
+}
+
+.s-TopLeft{
+    flex: 1;
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+    box-shadow: 2px 4px 10px 1px rgba(201,201,201,0.45);
+    padding: 20px;
+    position: relative;
+}
+
+.s-TopRight{
+    flex: 2;
+}
+
+.s-TopLeftItem{
+    display: flex;
+    gap: 20px;
+}
+
+.s-TopLeftItem-img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.editButton{
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 12px;
+    padding: 5px;
+    color: #7451f8;
+    cursor: pointer;
+    background-color: #7551f818;
+    border-radius: 0px 0px 0px 5px;
+}
+
+
+
+.d-itemTitle{
+    margin-bottom: 10px;
+    color: #555;
+}
+
+.detailItem{
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.Itemkey{
+    font-weight: bold;
+    color: gray;
+}
+
+.ItemValue{
+    font-weight: 300px;
+}
+
+.s-title{
+    font-size: 18px;
+    color: rgb(141, 123, 123);
+    margin-bottom: 20px;
+}
+
+.s-Bottom{
+    padding: 16px;
+    -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.75);
+    box-shadow: 2px 4px 10px 1px rgba(201,201,201,0.45);
+    margin: 10px 20px;
+}

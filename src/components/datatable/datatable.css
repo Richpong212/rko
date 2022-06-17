@@ -1,0 +1,75 @@
+.datatable{
+    height: 600px;
+    padding: 20px;
+}
+
+.cellWithTable{
+    display: flex;
+}
+
+.cellWithImg{
+    display: flex;
+    align-items: center;
+}
+
+.cellImg{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 20px;
+}
+
+.cellWithStatus{
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.cellWithStatus .active{
+    background-color: rgba(0, 128, 0, 0.05);
+    color: #00b300;
+}
+
+.cellAction{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.viewButton{
+    padding: 2px 5px;
+    border-radius: 5px;
+    color: darkblue;
+    cursor: pointer;
+    border: 1px dotted rgb(0, 0, 139,0.596);
+}
+
+.deleteButton{
+    padding: 2px 5px;
+    border-radius: 5px;
+    color: crimson;
+    cursor: pointer;
+    border: 1px dotted rgb(220, 20, 60,0.6);
+    cursor: pointer;    
+}
+
+.datattable{
+    width: 100%;
+    font-size: 24px;
+    color: gray;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.LinkName{
+   text-decoration: none;
+   color: #00b300;
+   font-size: smaller;
+   font-weight: 500;
+   border: 1px solid #00b300;
+   padding: 5px;
+   border-radius: 5px;
+   cursor: pointer;
+   height: 30px;
+}
