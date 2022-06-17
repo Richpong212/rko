@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rko/static/css/main.0841f20c.css",
+    "main.js": "/rko/static/js/main.a6984235.js",
+    "index.html": "/rko/index.html",
+    "main.0841f20c.css.map": "/rko/static/css/main.0841f20c.css.map",
+    "main.a6984235.js.map": "/rko/static/js/main.a6984235.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0841f20c.css",
+    "static/js/main.a6984235.js"
+  ]
+}
