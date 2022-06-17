@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rko/static/css/main.0841f20c.css",
-    "main.js": "/rko/static/js/main.a6984235.js",
+    "main.js": "/rko/static/js/main.9cadb550.js",
     "index.html": "/rko/index.html",
     "main.0841f20c.css.map": "/rko/static/css/main.0841f20c.css.map",
-    "main.a6984235.js.map": "/rko/static/js/main.a6984235.js.map"
+    "main.9cadb550.js.map": "/rko/static/js/main.9cadb550.js.map"
   },
   "entrypoints": [
     "static/css/main.0841f20c.css",
-    "static/js/main.a6984235.js"
+    "static/js/main.9cadb550.js"
   ]
 }
